@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128123611350",
+    "project_id": "testwebview-70c36",
+    "storage_bucket": "testwebview-70c36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128123611350:android:e7fcbe82b2efebf9444177",
+        "android_client_info": {
+          "package_name": "com.conaughee.testwebview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128123611350-soool5df6cvu2r6r4bfrpdgk530nrvp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTD9QYZWQnfFPuXyMBwAs6gsfmyIPMCuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128123611350-soool5df6cvu2r6r4bfrpdgk530nrvp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
