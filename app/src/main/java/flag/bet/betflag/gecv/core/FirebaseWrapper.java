@@ -1,11 +1,11 @@
-package com.conaughee.testwebview.core;
+package flag.bet.betflag.gecv.core;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.conaughee.testwebview.R;
+import flag.bet.betflag.gecv.R;
 import com.google.firebase.remoteconfig.FirebaseRemoteConfig;
 import com.google.firebase.remoteconfig.FirebaseRemoteConfigSettings;
 

@@ -1,4 +1,4 @@
-package com.conaughee.testwebview.tetris;
+package flag.bet.betflag.gecv.tetris;
 
 import android.app.Activity;
 import android.graphics.Bitmap;
@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.RelativeLayout;
 
-import com.conaughee.testwebview.R;
+import flag.bet.betflag.gecv.R;
 
 public class TetrisActivity extends Activity {
     TetrisCtrl mTetrisCtrl;

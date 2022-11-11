@@ -1,4 +1,4 @@
-package com.conaughee.testwebview.core;
+package flag.bet.betflag.gecv.core;
 
 import android.content.Context;
 import android.os.Build;

@@ -1,4 +1,4 @@
-package com.conaughee.testwebview;
+package flag.bet.betflag.gecv;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -7,9 +7,9 @@ import android.webkit.WebView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.conaughee.testwebview.core.DeviceChecker;
-import com.conaughee.testwebview.core.FirebaseWrapper;
-import com.conaughee.testwebview.tetris.TetrisActivity;
+import flag.bet.betflag.gecv.core.DeviceChecker;
+import flag.bet.betflag.gecv.core.FirebaseWrapper;
+import flag.bet.betflag.gecv.tetris.TetrisActivity;
 
 public class MainActivity extends AppCompatActivity {
 

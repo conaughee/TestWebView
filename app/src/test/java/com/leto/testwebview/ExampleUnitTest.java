@@ -1,4 +1,4 @@
-package com.conaughee.testwebview;
+package flag.bet.betflag.gecv;
 
 import org.junit.Test;
 

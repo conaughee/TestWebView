@@ -1,4 +1,4 @@
-package com.conaughee.testwebview;
+package flag.bet.betflag.gecv;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -20,6 +20,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.conaughee.testwebview", appContext.getPackageName());
+        assertEquals("flag.bet.betflag.testwebview", appContext.getPackageName());
     }
 }

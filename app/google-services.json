@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "128123611350",
-    "project_id": "testwebview-70c36",
-    "storage_bucket": "testwebview-70c36.appspot.com"
+    "project_number": "870820242763",
+    "project_id": "antflg",
+    "storage_bucket": "antflg.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:128123611350:android:e7fcbe82b2efebf9444177",
+        "mobilesdk_app_id": "1:870820242763:android:d8661118edb5c2204ff4ce",
         "android_client_info": {
-          "package_name": "com.conaughee.testwebview"
+          "package_name": "flag.bet.betflag.gecv"
         }
       },
       "oauth_client": [
         {
-          "client_id": "128123611350-soool5df6cvu2r6r4bfrpdgk530nrvp8.apps.googleusercontent.com",
+          "client_id": "870820242763-6flinrpultv3cmgljs7bc5vkfauqalge.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDTD9QYZWQnfFPuXyMBwAs6gsfmyIPMCuI"
+          "current_key": "AIzaSyDr0LvbQ2E5y8PyDm6A9FFXnSRO-MAuThs"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "128123611350-soool5df6cvu2r6r4bfrpdgk530nrvp8.apps.googleusercontent.com",
+              "client_id": "870820242763-6flinrpultv3cmgljs7bc5vkfauqalge.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
